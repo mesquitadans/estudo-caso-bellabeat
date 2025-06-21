@@ -14,6 +14,27 @@ Identificar tendências no uso de dispositivos inteligentes e sugerir como a Bel
 5. **Compartilhar:** Criei visualizações para apresentar os insights.
 6. **Agir:** Gerei recomendações para a estratégia de marketing da Bellabeat.
 
+   # Estudo de Caso Bellabeat
+
+## 📊 Distribuição diária dos passos
+![Distribuição diária dos passos](distribuicao-diaria-dos-passos.png)
+
+---
+
+## 📊 Média diária das principais variáveis
+![Média diária das principais variáveis](media-diaria-principais-variaveis.png)
+
+---
+
+## 📊 Relação entre passos e calorias gastas
+![Relação entre passos e calorias gastas](relacao-entre-passos-e-calorias.png)
+
+---
+
+## 📝 Sobre o estudo
+Este estudo analisa tendências de uso de dispositivos fitness, focando em passos diários, calorias gastas e outras variáveis. Foram utilizadas técnicas de análise e visualização para responder às perguntas de negócio da Bellabeat e propor recomendações para o time de marketing.
+
+
 ## 📊 Principais resultados
 - Os usuários dão, em média, 7.638 passos por dia.
 - Uso de atividades muito intensas (Very Active) ocorre em média apenas 21 min/dia.
